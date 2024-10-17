@@ -16,6 +16,6 @@
 
 [1]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/ex001%20Object%20Segmentation> "Ex001: Object Segmentation"
 [2]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/ex002%20Object%20Detection> "Ex002: Object Detection"
-[3]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/ex003%20vision%20transformer> "Ex003: Vision Transformer"
-[4]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/ex003%20vision%20tracking> "Ex004: Object Tracking"
+[3]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/ex003%20Vision%20Transformer> "Ex003: Vision Transformer"
+[4]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/ex004%20Object%20Tracking> "Ex004: Object Tracking"
 
