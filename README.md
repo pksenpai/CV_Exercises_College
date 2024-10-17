@@ -1,4 +1,4 @@
-# CV_Exercises_College
+# Computer Vision exercises
 4 week 4 exercises
 
 
