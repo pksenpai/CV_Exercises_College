@@ -15,7 +15,7 @@
 > <br> <a href='#' target='_blank'> <img src='https://github.com/pksenpai/CV_Exercises_College/blob/main/ex004%20Object%20Tracking/ex004_OT.gif' width="800" height="400"/> </a>
 
 [1]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/ex001%20Object%20Segmentation> "Ex001: Object Segmentation"
-[2]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/Ex002> "Ex002"
-[3]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/Ex003> "Ex003"
-[4]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/Ex004> "Ex004"
+[2]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/ex002%20Object%20Detection> "Ex002: Object Detection"
+[3]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/ex003%20vision%20transformer> "Ex003: Vision Transformer"
+[4]: <https://github.com/pksenpai/CV_Exercises_College/tree/main/ex003%20vision%20tracking> "Ex004: Object Tracking"
 
