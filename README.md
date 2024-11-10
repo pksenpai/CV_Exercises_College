@@ -5,7 +5,7 @@
 > ## [Ex001: Object Segmentation][1]
 > <br> <a href='#' target='_blank'> <img src='https://github.com/pksenpai/CV_Exercises_College/blob/main/ex001%20Object%20Segmentation/ex001_OS.png' width="800" height="400"/> </a>
 
-> ## [Ex002: Object Detection][2]
+> ## [Ex002: Object Detection & Classification][2]
 > <br> <a href='#' target='_blank'> <img src='https://github.com/pksenpai/CV_Exercises_College/blob/main/ex002%20Object%20Detection/ex002_OD.gif' width="800" height="400"/> </a>
 
 > ## [Ex003: Vision Transformer][3]
